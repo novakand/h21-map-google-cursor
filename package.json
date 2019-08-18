@@ -1,0 +1,20 @@
+{
+    "name": "@h21-map/google-cursor",
+    "scope":"@h21-map",
+    "version": "1.0.1",
+    "description": "A library Google Javascript",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/novakand/h21-map-google-cursor"
+    },
+    "keywords": [
+      "cursor",
+      "angular"
+    ],
+    "author": "",
+    "license": ""
+  }
